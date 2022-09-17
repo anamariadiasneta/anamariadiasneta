@@ -8,7 +8,7 @@
 
 A little about myself:
 
-- 🌱 I'm currently studying Data Analysis
+- 💻📊 I'm currently studying Data Analysis
 
 
 ## I'm learning
