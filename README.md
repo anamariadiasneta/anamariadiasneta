@@ -8,29 +8,31 @@
 
 A little about myself:
 
-- 💻📊 I'm currently studying Data Analysis
-
+-I am currently in career transition, to the UX/UI Designer area.
 
 ## I'm learning
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 <div>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/630px-New_Power_BI_Logo.svg.png" width="40" height="40" /> <img src="https://cdn.icon-icons.com/icons2/2397/PNG/512/microsoft_office_excel_logo_icon_145720.png" width="40" height="40" />
+<img src="https://user-images.githubusercontent.com/113481041/194949142-d99bb591-c4f1-44aa-8114-66ada4439a47.png" width="40" height="40"/> 
+</div>
+
+<img src="https://i0.wp.com/onebitcode.com/wp-content/uploads/2018/03/invision-logo-pink.png?ssl=1" width="80" height="30"/> 
 </div>
 
 ## Tools 
 
 <div>
 
-<img src="https://cdn.icon-icons.com/icons2/2397/PNG/512/microsoft_office_excel_logo_icon_145720.png" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40"/> 
 
 </div>
 
 
 <div>
 
-<a href="https://www.linkedin.com/in/ana-maria-dias-a6a848245/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+<a href="https://https://www.linkedin.com/in/anamariadiasneta/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 
 </div>
 
